@@ -1,0 +1,10 @@
+flask
+flask-cors
+sqlalchemy
+flask-sqlalchemy
+apscheduler
+opencv-python-headless
+pillow
+numpy
+python-dotenv
+requests
